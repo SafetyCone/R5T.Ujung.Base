@@ -1,2 +1,2 @@
 # R5T.Ujung.Base
-A stringly-typed solution and project directory name provider-related services library.
+A stringly-typed solution and project, file and directory, name and path provider-related services library.
