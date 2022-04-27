@@ -1,9 +1,9 @@
-﻿using System;
+using System;using R5T.T0064;
 
 
 namespace R5T.Ujung
-{
-    public interface IProjectFilePathProvider
+{[ServiceDefinitionMarker]
+    public interface IProjectFilePathProvider:IServiceDefinition
     {
         string GetProjectFilePath();
     }
